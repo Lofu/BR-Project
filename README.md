@@ -2,9 +2,8 @@
 
 網路書店的書籍資料內容爬蟲，包含：價位、書籍簡介、摘要、出版社與ISBN等等
 
-# >- python 爬蟲紀錄
+# > python 爬蟲紀錄
 
-***
 
 * 網路書店官網網址在此：[Touch me](http://www.bookrep.com.tw/)
 
