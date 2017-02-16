@@ -44,6 +44,8 @@
 * **Captcha**
 	* [Captcha Solve](https://pypi.python.org/pypi/captcha-solver)
 
+* p.s. 原諒小弟沒有遵守[Pep8](https://www.python.org/dev/peps/pep-0008/) 
+
 ## 官網爬蟲步驟
 
 1. 觀察刊登書籍的網址規律
